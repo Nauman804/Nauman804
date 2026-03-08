@@ -1,74 +1,73 @@
-<h1 align="center">Hi 👋, I'm M Noman Gokboru</h1>
-
-<h3 align="center">
-AI & Machine Learning Enthusiast | Data Science Learner | Future AI Engineer
-</h3>
-
-<p align="center">
-<a href="https://github.com/Nauman804">
-<img src="https://komarev.com/ghpvc/?username=Nauman804&label=Profile%20views&color=0e75b6&style=flat" />
-</a>
-</p>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+M+Noman+Gokboru;AI+%7C+Machine+Learning+Developer;Python+%7C+React+Developer;Future+AI+Engineer" />
+</h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Passionate about **Artificial Intelligence & Machine Learning**
-- 📊 Interested in **Data Science and Data Analysis**
-- 🌱 Currently learning **Advanced Python & Machine Learning**
-- 🚀 Working on **real-world AI projects**
+- 💻 Passionate about **Artificial Intelligence & Web Development**
+- 📊 Interested in **Machine Learning & Data Science**
+- 🌱 Currently learning **Advanced AI & React Development**
+- 🚀 Building **real-world projects**
 - 🎯 Goal: Become a **Professional AI Engineer**
 
 ---
 
-## 🚀 My Projects
+# 🚀 My Projects
 
 🔹 Object Counting using Computer Vision  
 🔹 Customer Segmentation using K-Means  
 🔹 Spaceship Titanic Data Analysis  
-🔹 Machine Learning Prediction Projects  
+🔹 Iris Flower Classification  
+🔹 Weather App (React / JavaScript)  
+🔹 House Price Prediction (Machine Learning)
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Programming Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### Data Science / AI
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+### 🤖 AI / Data Science
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-green?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nauman804&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman804&layout=compact&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Nauman804&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Most Used Languages
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nauman804&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman804&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
+
+![streak](https://streak-stats.demolab.com/?user=Nauman804&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Nauman804/Nauman804/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
 
 💼 LinkedIn  
 📧 Email  
@@ -76,5 +75,4 @@ AI & Machine Learning Enthusiast | Data Science Learner | Future AI Engineer
 
 ---
 
-⭐ From [Nauman804](https://github.com/Nauman804)
-
+⭐ From https://github.com/Nauman804
