@@ -1,42 +1,50 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=M%20Noman%20Gokboru&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+M+Noman+Gokboru;AI+%7C+Machine+Learning+Developer;Python+%7C+React+Developer;Future+AI+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+M+Noman+Gokboru;AI+%7C+Machine+Learning+Developer;Python+%7C+React+Developer;Future+AI+Engineer"/>
 </h1>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Passionate about **Artificial Intelligence & Web Development**
-- 📊 Interested in **Machine Learning & Data Science**
-- 🌱 Currently learning **Advanced AI & React Development**
-- 🚀 Building **real-world projects**
-- 🎯 Goal: Become a **Professional AI Engineer**
+- 🤖 AI & Machine Learning Enthusiast  
+- 💻 Web Developer (React / JavaScript)  
+- 📊 Data Science Learner  
+- 🚀 Building real-world projects  
+- 🎯 Goal: Become a Professional AI Engineer  
 
 ---
 
-# 🚀 My Projects
+# 🚀 Featured Projects
 
-🔹 Object Counting using Computer Vision  
-🔹 Customer Segmentation using K-Means  
-🔹 Spaceship Titanic Data Analysis  
-🔹 Iris Flower Classification  
-🔹 Weather App (React / JavaScript)  
-🔹 House Price Prediction (Machine Learning)
+| Project | Description |
+|-------|-------------|
+| 🌸 Iris Flower Classification | Machine Learning model to classify iris flowers |
+| 🌦 Weather App | React based weather forecasting application |
+| 🏠 House Price Prediction | ML model to predict house prices |
+| 👁 Object Counting | Computer Vision project |
+| 📊 Customer Segmentation | K-Means clustering ML project |
 
 ---
 
 # 🛠 Tech Stack
 
 ### 💻 Languages
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### 🌐 Web Development
+
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
 ### 🤖 AI / Data Science
+
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-green?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
@@ -49,7 +57,7 @@
 
 ---
 
-# 📈 Most Used Languages
+# 📈 Top Languages
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman804&layout=compact&theme=tokyonight)
 
@@ -75,4 +83,6 @@
 
 ---
 
+<p align="center">
 ⭐ From https://github.com/Nauman804
+</p>
