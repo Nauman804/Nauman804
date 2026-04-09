@@ -63,10 +63,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nauman804&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman804&layout=compact&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nauman804&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman804&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Nauman804&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nauman804&theme=tokyonight"/>
+</p>
 ---
 
 ## 🔥 Contribution Streak
