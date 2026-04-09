@@ -1,63 +1,76 @@
-<h1 align="center">Muhammad Nauman Anwar</h1>
-<h3 align="center">AI & Machine Learning Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=250&section=header&text=Muhammad%20Nauman%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Developer;Python+%7C+React+Developer;Future+AI+Engineer;Building+Real+World+Projects"/>
+</h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🤖 AI & Machine Learning Enthusiast  
-- 💻 Web Developer (React / JavaScript)  
-- 📊 Data Science Learner  
-- 🚀 Building real-world projects  
-- 🎯 Goal: Become a Professional AI Engineer  
+- 🤖 Passionate about AI & Machine Learning  
+- 💻 React & JavaScript Developer  
+- 📊 Data Science Enthusiast  
+- 🚀 Focused on real-world problem solving  
+- 🎯 Goal: Professional AI Engineer  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |--------|------------|
-| 🌸 Iris Flower Classification | ML model for classifying iris flowers |
-| 🏠 House Price Prediction | Predict house prices using regression |
+| 🌸 Iris Classification | ML model for flower classification |
+| 🏠 House Price Prediction | Regression-based prediction system |
 | 📊 Customer Segmentation | K-Means clustering project |
-| 🌦 Weather App | React-based weather app |
+| 🌦 Weather App | React real-time weather app |
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
 
-### 🌐 Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,react,html,css" height="60"/>
 
-### 🤖 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy" height="60"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nauman804&show_icons=true&theme=default"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nauman804&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman804&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🎯 Career Goal
+## 🔥 GitHub Streak
 
-To become a professional AI Engineer and build impactful AI solutions.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nauman804&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin-profile  
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:243B55,100:141E30&height=120&section=footer"/>
+</p>
