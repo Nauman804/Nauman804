@@ -1,51 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=250&section=header&text=Muhammad%20Nauman%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Muhammad%20Nauman%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Developer;Python+%7C+React+Developer;Future+AI+Engineer;Building+Real+World+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Machine+Learning+Developer;Python+Developer+%7C+Flask+%7C+React;Building+Real+World+AI+Projects;Open+to+Freelance+Work"/>
 </h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🤖 Passionate about AI & Machine Learning  
-- 💻 React & JavaScript Developer  
-- 📊 Data Science Enthusiast  
-- 🚀 Focused on real-world problem solving  
-- 🎯 Goal: Professional AI Engineer  
+- 🤖 AI & Machine Learning Developer  
+- 🧠 Strong in Python, ML Models & Data Analysis  
+- 🌐 Web Apps using Flask & React  
+- 🚀 Building real-world AI systems  
+- 💼 Open for Freelance / Remote Work  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Real Work)
 
-| Project | Description |
-|--------|------------|
-| 🌸 Iris Classification | ML model for flower classification |
-| 🏠 House Price Prediction | Regression-based prediction system |
-| 📊 Customer Segmentation | K-Means clustering project |
-| 🌦 Weather App | React real-time weather app |
+### 🎬 Movie Recommendation System
+- Content-Based Filtering using similarity scores  
+- Built with Python & ML algorithms  
+
+### 🏠 House Price Prediction
+- Regression model for predicting real estate prices  
+
+### 📊 Customer Segmentation
+- K-Means clustering for business insights  
+
+### 🤖 Spam Detection System
+- NLP-based spam classifier  
+
+### 💬 Flask AI Chatbot
+- Intelligent chatbot using NLP techniques  
+
+### 🌦 Weather App
+- Real-time weather using API + Flask  
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 AI & Python Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,html,css" height="60"/>
-
+<img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css" height="60"/>
 </p>
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" height="60"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy" height="60"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nauman804&show_icons=true&theme=tokyonight"/>
@@ -54,23 +69,8 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nauman804&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:243B55,100:141E30&height=120&section=footer"/>
-</p>
+</p
