@@ -93,9 +93,7 @@
   <img alt="Top languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
-<p align="center">
-  <img alt="Streak" width="70%" src="https://streak-stats.demolab.com?user=Nauman804&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
+
 
 ## 🐍 Contribution Snake
 <p align="center">
