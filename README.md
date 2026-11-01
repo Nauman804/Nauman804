@@ -98,6 +98,10 @@
 </p>
 
 ## 🐍 Contribution Snake
+<p align="center">
+  <img alt="GitHub stats" width="48%" src="./profile/stats.svg"/>
+  <img alt="Top languages" width="48%" src="./profile/top-langs.svg"/>
+</p>
 
 <p align="center">
   <picture>
