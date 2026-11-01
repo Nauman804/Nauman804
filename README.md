@@ -89,17 +89,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=Nauman804&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img alt="Top languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-
-
-## 🐍 Contribution Snake
-<p align="center">
   <img alt="GitHub stats" width="48%" src="./profile/stats.svg"/>
   <img alt="Top languages" width="48%" src="./profile/top-langs.svg"/>
 </p>
+
+<p align="center">
+  <img alt="Streak" width="70%" src="https://streak-stats.demolab.com?user=Nauman804&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
