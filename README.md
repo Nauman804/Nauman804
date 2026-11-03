@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nauman804/Nauman804/output/github-snake.svg" alt="Contribution snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Nauman804/Nauman804/output/github-snake.svg?v=2" alt="Contribution snake" width="100%"/>
 </p>
 
 ---
