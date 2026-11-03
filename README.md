@@ -56,14 +56,6 @@
 
 👉 All repositories and live demos: **[Portfolio](https://nauman804.github.io/Portofolio/)** · **[GitHub](https://github.com/Nauman804?tab=repositories)**
 
----|---|
-| [heart-disease-prediction](https://github.com/Nauman804/heart-disease-prediction) | Heart disease prediction with SVM and Streamlit |
-| [iris-flower-prediction](https://github.com/Nauman804/iris-flower-prediction) | Iris species prediction with SVM and Streamlit |
-| [Weather-App](https://github.com/Nauman804/Weather-App) | Flask app with live weather data |
-| [Mini-Projects](https://github.com/Nauman804/Mini-Projects) · [Fall25-AI-Lab](https://github.com/Nauman804/Fall25-AI-Lab) · [AI-Assignment](https://github.com/Nauman804/AI-Assignment) | Practice projects and lab work |
-
-👉 Full list and live demos: **[nauman804.github.io/Portofolio](https://nauman804.github.io/Portofolio/)**
-
 ---
 
 <p align="center">
