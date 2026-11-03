@@ -54,4 +54,4 @@
 
 <p align="center"><img src="connect.svg?v=1" alt="Connect" width="100%"/></p>
 
-<p align="center"><i>♛ GÖKBÖRÜ AI: Intelligent solutions for a brighter future.</i></p>
+<p align="center"><i>♛ GÖKBÖRÜ AI: Intelligent solutions for a brighter future.</i></p>  
