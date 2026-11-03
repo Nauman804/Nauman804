@@ -23,29 +23,25 @@
   <img src="profile/id-dashboard.svg?v=3" alt="ID badge and dashboard" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="profile/build.svg?v=1" alt="What I build" width="100%"/>
+</p>
+
 ---
 
-## 🛠 Services
-
-| Service | What you get |
-|---|---|
-| 🤖 AI Chatbot / RAG Assistant | A bot that answers only from your documents |
-| ⚙️ Automation & AI Agents | Gmail, Sheets and Calendar workflows that run by themselves |
-| 🌐 AI-powered Website | Responsive site with an AI feature |
-| 👁️ Computer Vision Demo | Real-time object detection on video |
+<p align="center">
+  <img src="profile/services.svg?v=1" alt="Services" width="100%"/>
+</p>
 
 📩 **To order:** [email me](mailto:naumangokboru@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/naumangokboru).
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="profile/projects.svg?v=1" alt="Featured projects" width="100%"/>
+</p>
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 **RAG Knowledge Assistant** | Answers only from company documents, says "not found" instead of guessing | Python, n8n, Supabase, Gemini |
-| 🤖 **Multi-Agent Automation** | AI executive assistant (meetings, email, CRM) and PR campaign agents | n8n, Sheets, Gmail, Calendar |
-| 🩺 [**MediBot**](https://dr-med-ten.vercel.app) | Live AI health assistant with safety disclaimers | Flask, Llama 3.1 (Groq) |
-| 👁️ **Real-Time Object Detection** | Low-latency detection on live video | Python, OpenCV, YOLOv8 |
+🩺 **Try it live:** [MediBot](https://dr-med-ten.vercel.app)
 
 ### 📂 More on GitHub
 
@@ -60,10 +56,12 @@
 
 ---
 
-## 🧠 Tech Stack
+<p align="center">
+  <img src="profile/stack.svg?v=1" alt="Tech orbit" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,flask,react,js,html,css,git,github,vercel"/>
+  <img src="profile/hobbies.svg?v=1" alt="Hobbies" width="100%"/>
 </p>
 
 ---
@@ -86,7 +84,7 @@
 ---
 
 <p align="center">
-  <img src="profile/connect%20(1).svg?v=3" alt="Let's connect" width="100%"/>
+  <img src="profile/connect-reina.svg?v=1" alt="Let's connect" width="100%"/>
 </p>
 
 <p align="center"><i>♛ GÖKBÖRÜ AI · Intelligent solutions for a brighter future.</i></p>
