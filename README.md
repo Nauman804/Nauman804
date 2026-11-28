@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://nauman804.github.io/Portofolio/"><img src="https://img.shields.io/badge/Portfolio-Live%20Demos-00d4ff?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/naumangokboru"><img src="https://img.shields.io/badge/LinkedIn-Connect-2f6bff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:naumangokboru@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-0a1a4d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nomangokboru"><img src="https://img.shields.io/badge/LinkedIn-Connect-2f6bff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:maliknomangokboru@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-0a1a4d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BS Artificial Intelligence student, Superior University Lahore (5th semester)
-- 🤖 I build and ship working AI systems: ML models, computer vision and AI agents
+- 🤖 **AI Developer** building business software, AI chatbots and automation
+- 🎓 BS Artificial Intelligence, Superior University Lahore (5th semester)
 - 🧠 Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, YOLOv8
 - 🔗 RAG chatbots and multi-agent automation with n8n, Make.com, Gemini and OpenAI APIs
 - 🌐 Web apps with Flask and React, deployed on Vercel
@@ -23,36 +23,37 @@
   <img src="profile/id-dashboard.svg?v=3" alt="ID badge and dashboard" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="profile/build.svg?v=1" alt="What I build" width="100%"/>
-</p>
+---
+
+## 🛠 Services
+
+| Service | What you get |
+|---|---|
+| 🏪 **Business Software** | Gym, pharmacy POS, shop and clinic management systems |
+| 🌐 **Websites** | Portfolio, business website or online store |
+| 🤖 **AI Chatbot / RAG Assistant** | A bot that answers only from your own documents |
+| ⚙️ **Automation & AI Agents** | Email, Sheets and Calendar workflows that run by themselves |
+| 🎨 **Extra: AI Creative** | AI ads, videos, images and branding |
+
+📩 **To order:** DM [@naumangokboru](https://instagram.com/naumangokboru) on Instagram, [email me](mailto:maliknomangokboru@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/nomangokboru).
 
 ---
 
-<p align="center">
-  <img src="profile/services.svg?v=1" alt="Services" width="100%"/>
-</p>
+## 🚀 Featured Projects
 
-📩 **To order:** [email me](mailto:naumangokboru@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/naumangokboru).
+| Project | What it does | Stack |
+|---|---|---|
+| 🧠 [**RAG Knowledge Assistant**](https://github.com/Nauman804/REPO-NAME-1) | Answers only from company documents, says "not found" instead of guessing | Python, n8n, Supabase, Gemini |
+| 🤖 [**AI Executive Assistant**](https://github.com/Nauman804/REPO-NAME-2) | Schedules meetings, sends emails and manages a CRM from one chat | n8n, Calendar, Gmail, Sheets |
+| 📣 [**PR Campaign Multi-Agent**](https://github.com/Nauman804/REPO-NAME-3) | Research → strategy → creative → executive report | n8n, multi-agent, Gemini / OpenAI |
+| 🩺 [**MediBot**](https://github.com/Nauman804/REPO-NAME-4) · [Live](https://dr-med-ten.vercel.app) | AI health assistant with safety disclaimers | Flask, Llama 3.1 (Groq) |
+| 👁️ [**Real-Time Object Detection**](https://github.com/Nauman804/REPO-NAME-5) | 80%+ mAP detection on live video | Python, OpenCV, YOLOv8 |
 
----
+<!-- EDIT: replace REPO-NAME-1 ... REPO-NAME-5 with your real repo names (copy from each repo's address bar) -->
 
-<p align="center">
-  <img src="profile/projects.svg?v=1" alt="Featured projects" width="100%"/>
-</p>
-
-🩺 **Try it live:** [MediBot](https://dr-med-ten.vercel.app)
-
-<p align="center">
-  <img src="profile/repos.svg?v=1" alt="More on GitHub" width="100%"/>
-</p>
-
-<details>
-<summary>🔗 Repo links</summary>
+### 📚 More on GitHub
 
 [heart-disease-prediction](https://github.com/Nauman804/heart-disease-prediction) · [iris-flower-prediction](https://github.com/Nauman804/iris-flower-prediction) · [Weather-App](https://github.com/Nauman804/Weather-App) · [Mini-Projects](https://github.com/Nauman804/Mini-Projects) · [Fall25-AI-Lab](https://github.com/Nauman804/Fall25-AI-Lab) · [AI-Assignment](https://github.com/Nauman804/AI-Assignment)
-
-</details>
 
 👉 All repositories and live demos: **[Portfolio](https://nauman804.github.io/Portofolio/)** · **[GitHub](https://github.com/Nauman804?tab=repositories)**
 
