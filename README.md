@@ -41,19 +41,26 @@
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 [**RAG Knowledge Assistant**](https://github.com/Nauman804/REPO-NAME-1) | Answers only from company documents, says "not found" instead of guessing | Python, n8n, Supabase, Gemini |
-| 🤖 [**AI Executive Assistant**](https://github.com/Nauman804/REPO-NAME-2) | Schedules meetings, sends emails and manages a CRM from one chat | n8n, Calendar, Gmail, Sheets |
-| 📣 [**PR Campaign Multi-Agent**](https://github.com/Nauman804/REPO-NAME-3) | Research → strategy → creative → executive report | n8n, multi-agent, Gemini / OpenAI |
-| 🩺 [**MediBot**](https://github.com/Nauman804/REPO-NAME-4) · [Live](https://dr-med-ten.vercel.app) | AI health assistant with safety disclaimers | Flask, Llama 3.1 (Groq) |
-| 👁️ [**Real-Time Object Detection**](https://github.com/Nauman804/REPO-NAME-5) | 80%+ mAP detection on live video | Python, OpenCV, YOLOv8 |
+### 🏪 Business Software
+| Project | What it is |
+|---|---|
+| 🏋️ [**GymFlow Management System**](https://github.com/Nauman804/gymflow-management-system-) | Management system for gyms |
+| 💊 [**Pharmacy POS**](https://github.com/Nauman804/pharmacy-pos) | Point-of-sale system for pharmacies |
+| 🧾 [**QuickPOS Demo**](https://github.com/Nauman804/quickpos-demo) | Demo of a simple point-of-sale system for shops |
 
-<!-- EDIT: replace REPO-NAME-1 ... REPO-NAME-5 with your real repo names (copy from each repo's address bar) -->
+### 🌐 Websites & AI Apps
+| Project | What it is |
+|---|---|
+| ⌚ [**Gokboru Watch**](https://github.com/Nauman804/gokboru-site) | Watch store website |
+| 📚 [**AI Study Assistant**](https://github.com/Nauman804/Ai-Study-Assistant) · [Live](https://ai-study-assistant-black.vercel.app) | AI assistant for students |
+| 🩺 **MediBot** · [Live](https://dr-med-ten.vercel.app) | AI health assistant with safety disclaimers (Flask, Llama 3.1 via Groq) |
 
-### 📚 More on GitHub
+### ⚙️ AI Agents & Automation
+| Project | What it is |
+|---|---|
+| 🤖 [**Gokboru AI Automation Agents**](https://github.com/Nauman804/Gokboru-AI-Automation-Agents) | n8n workflows: RAG knowledge assistant (ingestion + retrieval), client onboarding and project manager agents |
 
-[heart-disease-prediction](https://github.com/Nauman804/heart-disease-prediction) · [iris-flower-prediction](https://github.com/Nauman804/iris-flower-prediction) · [Weather-App](https://github.com/Nauman804/Weather-App) · [Mini-Projects](https://github.com/Nauman804/Mini-Projects) · [Fall25-AI-Lab](https://github.com/Nauman804/Fall25-AI-Lab) · [AI-Assignment](https://github.com/Nauman804/AI-Assignment)
+<!-- EDIT: replace the short descriptions above with one real sentence per project once you are happy with them. -->
 
 👉 All repositories and live demos: **[Portfolio](https://nauman804.github.io/Portofolio/)** · **[GitHub](https://github.com/Nauman804?tab=repositories)**
 
